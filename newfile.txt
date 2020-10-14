@@ -8,3 +8,7 @@ This is a message.
 This is an updated message.
 This is an updated message.
 This is an updated message.
+
+Change newfile.txt on Github.
+Change newfile.txt on Github
+Change newfile.txt on Github
